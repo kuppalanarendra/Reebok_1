@@ -1,0 +1,56 @@
+.con{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    
+    width: 50%;
+    
+
+}
+.shiping{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    color:lightcoral;
+}
+.Del{
+    position: relative;
+    
+    align-items: center;
+
+    
+}
+#x2{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.final1{
+    width: 100%;
+    background-color:midnightblue;
+    color: white;
+    display: flex;
+   justify-content: space-evenly;
+   margin-right: 5px;
+}
+.social{
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+#end{
+    background-color: midnightblue;
+    margin-top: 1px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 30px;
+}
